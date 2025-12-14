@@ -1,5 +1,23 @@
-# 💫 About Me:
-🚀 I'm currently working on: Completing my Master's degree in Embedded Systems Engineering at Albert-Ludwigs-Universität Freiburg, focusing on projects involving embedded C/C++ for real-time systems, particularly in medical devices and automotive applications.<br><br>🤝 I'm looking to collaborate on: Innovative projects within the realms of embedded systems, IoT applications, and any initiatives that aim to push the boundaries of technology in automotive or medical fields.<br><br>🆘 I'm looking for help with: Navigating the transition from academia to industry, and advice on professional development in embedded software engineering.<br><br>📚 I'm currently learning: Advanced techniques in power optimization for embedded systems, and expanding my knowledge of network programming for IoT applications.<br><br>💬 Ask me about: Anything related to embedded systems design, challenges in implementing IoT solutions, and integrating complex hardware with software in constrained environments.<br><br>⚡ Fun fact: I built a real-time garbage monitoring system using IoT and Machine Learning techniques that accurately detects emptying of the bin and notifies the users!
+# 💫 About Me
+
+🚀 **I'm currently working on:**  
+Embedded Systems Engineer at **Aptiv**, working in the **Software-Defined Vehicle (SDV) / ADAS** domain. I focus on hardware–software integration, system bring-up, and validation of autonomous driving platforms using embedded C/C++, automotive ECUs, and vehicle networks (CAN, Ethernet, PTP).
+
+🤝 **I'm looking to collaborate on:**  
+Innovative embedded systems projects in **automotive**, **SDV/ADAS**, **IoT**, and **Linux-based embedded platforms**, especially those involving system integration, OTA updates, and low-power device design.
+
+🆘 **I'm looking for help with:**  
+Growing as an industry-level embedded software engineer, deepening expertise in large-scale automotive systems, and learning best practices for scalable, production-grade embedded software.
+
+📚 **I'm currently learning:**  
+Software-Defined Vehicle architectures, OTA and device management systems, and advanced techniques in system integration, testing, and power-aware embedded design.
+
+💬 **Ask me about:**  
+Embedded C/C++, automotive networking (CAN, Ethernet, PTP), SDV architectures, ADAS system integration, OTA update systems, and power-optimized IoT devices.
+
+⚡ **Fun fact:**  
+I’ve built a solar-powered, LoRaWAN-based soil monitoring system with custom compression and FRAM logging — and previously developed an IoT + ML garbage bin emptying detection system.
+
 
 
 ## 🌐 Socials:
